@@ -1,0 +1,13 @@
+C:\SENAI\repositorio\ExercicioSENAI\bin\Debug\netcoreapp3.1\ExercicioSENAI.exe
+C:\SENAI\repositorio\ExercicioSENAI\bin\Debug\netcoreapp3.1\ExercicioSENAI.deps.json
+C:\SENAI\repositorio\ExercicioSENAI\bin\Debug\netcoreapp3.1\ExercicioSENAI.runtimeconfig.json
+C:\SENAI\repositorio\ExercicioSENAI\bin\Debug\netcoreapp3.1\ExercicioSENAI.runtimeconfig.dev.json
+C:\SENAI\repositorio\ExercicioSENAI\bin\Debug\netcoreapp3.1\ExercicioSENAI.dll
+C:\SENAI\repositorio\ExercicioSENAI\bin\Debug\netcoreapp3.1\ExercicioSENAI.pdb
+C:\SENAI\repositorio\ExercicioSENAI\obj\Debug\netcoreapp3.1\ExercicioSENAI.csprojAssemblyReference.cache
+C:\SENAI\repositorio\ExercicioSENAI\obj\Debug\netcoreapp3.1\ExercicioSENAI.AssemblyInfoInputs.cache
+C:\SENAI\repositorio\ExercicioSENAI\obj\Debug\netcoreapp3.1\ExercicioSENAI.AssemblyInfo.cs
+C:\SENAI\repositorio\ExercicioSENAI\obj\Debug\netcoreapp3.1\ExercicioSENAI.csproj.CoreCompileInputs.cache
+C:\SENAI\repositorio\ExercicioSENAI\obj\Debug\netcoreapp3.1\ExercicioSENAI.dll
+C:\SENAI\repositorio\ExercicioSENAI\obj\Debug\netcoreapp3.1\ExercicioSENAI.pdb
+C:\SENAI\repositorio\ExercicioSENAI\obj\Debug\netcoreapp3.1\ExercicioSENAI.genruntimeconfig.cache
